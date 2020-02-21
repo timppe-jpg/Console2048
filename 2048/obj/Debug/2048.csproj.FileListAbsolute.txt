@@ -1,0 +1,7 @@
+C:\Users\Timi\source\repos\2048\2048\bin\Debug\2048.exe.config
+C:\Users\Timi\source\repos\2048\2048\bin\Debug\2048.exe
+C:\Users\Timi\source\repos\2048\2048\bin\Debug\2048.pdb
+C:\Users\Timi\source\repos\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
+C:\Users\Timi\source\repos\2048\2048\obj\Debug\2048.csproj.CoreCompileInputs.cache
+C:\Users\Timi\source\repos\2048\2048\obj\Debug\2048.exe
+C:\Users\Timi\source\repos\2048\2048\obj\Debug\2048.pdb
